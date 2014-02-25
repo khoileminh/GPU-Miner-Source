@@ -1,4 +1,4 @@
 GPU-Miner-Source
 ================
 
-Thorcoin GPU Miner Source
+GPU Miner Source Code
